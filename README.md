@@ -4,5 +4,5 @@ The script sends HTTP requests infinitely in order to mine new blocks, stores th
 in a CSV file, and updates graphs showing the evolution of the blockchain.
 
 ![Report 1](./blocs_per_signature.png)
-![Report 2](./.png)
+![Report 2](./time_between_blocks.png)
 
